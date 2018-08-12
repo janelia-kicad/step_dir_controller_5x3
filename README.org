@@ -1,4 +1,4 @@
-#+TITLE: step_dir_controller_5x3
+#+TITLE: template_5x3
 #+AUTHOR: Peter Polidoro
 #+EMAIL: peterpolidoro@gmail.com
 
