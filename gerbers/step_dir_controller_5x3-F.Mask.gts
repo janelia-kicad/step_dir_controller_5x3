@@ -1,7 +1,7 @@
 G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,no-vcs-found-7602~57~ubuntu16.04.1*
 G04 #@! TF.CreationDate,2017-02-08T15:14:31-05:00*
-G04 #@! TF.ProjectId,template_5x3,74656D706C6174655F3578332E6B6963,1.0*
-G04 #@! TF.FileFunction,Soldermask,Bot*
+G04 #@! TF.ProjectId,step_dir_controller_5x3,74656D706C6174655F3578332E6B6963,1.0*
+G04 #@! TF.FileFunction,Soldermask,Top*
 G04 #@! TF.FilePolarity,Negative*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*

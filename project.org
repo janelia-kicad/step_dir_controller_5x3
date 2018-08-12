@@ -1,6 +1,6 @@
 * Header                                                           :noexport:
 
-  #+MACRO: template_5x3
+  #+MACRO: step_dir_controller_5x3
   #+MACRO: version 1.0
   #+MACRO: license Open-Source Hardware
   #+AUTHOR: Peter Polidoro

@@ -11,7 +11,7 @@ version=1
 [pcbnew]
 version=1
 PageLayoutDescrFile=
-LastNetListRead=template_5x3.net
+LastNetListRead=step_dir_controller_5x3.net
 UseCmpFile=0
 PadDrill=0.889
 PadDrillOvalY=0.889
