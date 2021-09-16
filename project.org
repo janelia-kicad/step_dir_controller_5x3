@@ -4,7 +4,7 @@
   #+MACRO: version 1.0
   #+MACRO: license Open-Source Hardware
   #+AUTHOR: Peter Polidoro
-  #+EMAIL: peterpolidoro@gmail.com
+  #+EMAIL: peter@polidoro.io
 
 * Description
 
